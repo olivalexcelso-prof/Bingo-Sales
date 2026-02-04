@@ -1,7 +1,0 @@
-{
-  "name": "Bingo Master Pro Admin & Player Portal",
-  "description": "Uma plataforma de Bingo Profissional (90 bolas) com sistema de sorteio centralizado, painel administrativo robusto, gestão de fakes, sistema de afiliados e visual customizável.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
